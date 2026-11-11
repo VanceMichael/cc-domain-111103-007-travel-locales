@@ -1,0 +1,11 @@
+{
+  "url": "https://tour.invalid/ko/hall",
+  "locale": "ko",
+  "title": "합성 전시관",
+  "body": "합성 설명",
+  "notice": {
+    "scope": "place",
+    "state": "closed",
+    "from": "2026-11-11"
+  }
+}

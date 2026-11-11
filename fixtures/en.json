@@ -1,0 +1,10 @@
+{
+  "url": "https://tour.invalid/en/museum",
+  "locale": "en",
+  "place_id": "P-1",
+  "title": "Synthetic Hall",
+  "body": "English description",
+  "alternate": [
+    "https://tour.invalid/zh/house"
+  ]
+}

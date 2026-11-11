@@ -1,0 +1,9 @@
+{
+  "same_name": [
+    "P-1",
+    "P-2"
+  ],
+  "redirects": {
+    "https://tour.invalid/en/old": "https://tour.invalid/en/museum"
+  }
+}

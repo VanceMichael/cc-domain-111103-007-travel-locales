@@ -1,0 +1,10 @@
+{
+  "url": "https://tour.invalid/zh/house",
+  "locale": "zh",
+  "place_id": "P-1",
+  "title": "合成展馆",
+  "body": "中文介绍",
+  "alternate": [
+    "https://tour.invalid/en/museum"
+  ]
+}
